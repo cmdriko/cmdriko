@@ -1,6 +1,6 @@
 # 💫 About Me:
 Roblox Scripter 🖥️ | Upcoming Website Developer 🌐 | I only make scripts as a hobby now.<br>---------<br>The best way to contact me is via discord | cmdriko
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCFCHGKuwUJw1i0pVzpFQYEYLWpoJXYO4Uvt-7NZfpQA&s)](https://guns.lol/riko)
+[![MasterHead]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCFCHGKuwUJw1i0pVzpFQYEYLWpoJXYO4Uvt-7NZfpQA&s](https://auto.creavite.co/api/out/rxjzJ31mB1Sqsbxho0_static.png))](https://guns.lol/riko)
 
 
 ## 🌐 Socials:
