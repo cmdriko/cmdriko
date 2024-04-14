@@ -19,5 +19,3 @@
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/rikoscripts)
-
-<img align="right" alt="Coding" width="400" src="https://media.discordapp.net/attachments/1228130001845751858/1229026108679262310/profileIcon_zywu76wkx6jc1.jpeg?ex=662e2ec2&is=661bb9c2&hm=65c8dd11541364f6dc276d8e0f5b057c0e250a5a6770ab72ab14941299565582&=&format=webp")
