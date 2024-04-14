@@ -2,7 +2,7 @@
 [![MasterHead](https://media.discordapp.net/attachments/1228130001845751858/1229025062426771486/standard_1_1.gif?ex=662e2dc9&is=661bb8c9&hm=d686c6ff784ac19842dde890deff47273940559fced06e4cd15c1eb3c24f2e54&=&width=1440&height=508)](https://guns.lol/riko)
 <h1 align="center">Hi 👋, I'm justriko</h1>
 <h3 align="center">Roblox Scripter 🖥️ | Upcoming Website Developer 🌐 | I only make scripts as a hobby now.</h3>
-<img align="bottom" alt="Coding" width="400" src="https://media.discordapp.net/attachments/1228130001845751858/1229026108679262310/profileIcon_zywu76wkx6jc1.jpeg?ex=662e2ec2&is=661bb9c2&hm=65c8dd11541364f6dc276d8e0f5b057c0e250a5a6770ab72ab14941299565582&=&format=webp")
+<img align="right" alt="Coding" width="50" src="https://media.discordapp.net/attachments/1228130001845751858/1229026108679262310/profileIcon_zywu76wkx6jc1.jpeg?ex=662e2ec2&is=661bb9c2&hm=65c8dd11541364f6dc276d8e0f5b057c0e250a5a6770ab72ab14941299565582&=&format=webp")
 
 
 ## 🌐 Socials:
