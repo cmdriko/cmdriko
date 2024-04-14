@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 👀 About Me:
+[![MasterHead](https://media.discordapp.net/attachments/1228130001845751858/1229019580807249980/standard_1.gif?ex=662e28ae&is=661bb3ae&hm=0dabbc3ae005e5f891f4ede34cc17704017ac73caa3038a97334d3ac2c24908b&=)](https://guns.lol/riko)
 <h1 align="center">Hi 👋, I'm justriko</h1>
 <h3 align="center">Roblox Scripter 🖥️ | Upcoming Website Developer 🌐 | I only make scripts as a hobby now.</h3>
 
-[![MasterHead](https://media.discordapp.net/attachments/1228130001845751858/1229019580807249980/standard_1.gif?ex=662e28ae&is=661bb3ae&hm=0dabbc3ae005e5f891f4ede34cc17704017ac73caa3038a97334d3ac2c24908b&=)](https://guns.lol/riko)
 
 
 ## 🌐 Socials:
