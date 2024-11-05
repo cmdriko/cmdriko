@@ -1,7 +1,7 @@
 # 👀 About Me:
 [![MasterHead](https://media.discordapp.net/attachments/1228130001845751858/1229025062426771486/standard_1_1.gif?ex=662e2dc9&is=661bb8c9&hm=d686c6ff784ac19842dde890deff47273940559fced06e4cd15c1eb3c24f2e54&=&width=1440&height=508)](https://guns.lol/riko)
 <h1 align="center">Hi 👋, I'm justriko</h1>
-<h3 align="center">Roblox Scripter 🖥️ | Upcoming Website Developer 🌐 | I only make scripts as a hobby now.</h3>
+<h3 align="center">Roblox Scripter 🖥️ | Upcoming Website Developer 🌐 </h3>
 
 ## 🌐 Socials:
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/RikoFr_) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/No_Conversation_8145) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@rikoinabyss) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCLNAaLYj_ttHldsO53MRuDw) 
